@@ -6,8 +6,6 @@
 
 ## Description
 
-_Link to gh-pages branch_ _[INSERT GH-PAGES LINK HERE]_
-
 _This is our website to host Eric's doggo!_
 
 ## Setup/Installation Requirements
@@ -20,3 +18,21 @@ _This is our website to host Eric's doggo!_
 ## Known Bugs
 
 _N/A_
+
+## Support and contact details
+
+_Antonio Cruz's email:_
+_codrocks.cruz3@gmail.com_
+
+## Technologies Used
+
+* _Markdown_
+* _Git_
+* _HTML_
+* _CSS_ 
+
+### License
+
+**The MIT license**
+
+Copyright (c) 2020 **Antonio Cruz, Eric Settels**
